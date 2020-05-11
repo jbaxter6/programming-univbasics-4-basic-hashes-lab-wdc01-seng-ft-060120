@@ -4,9 +4,9 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
- {  :city => "Woodbridge"
-    :funthings => "mall"
-    :goodfood => "Sakura"
+ {  city: "Woodbridge",
+    funthings: "mall",
+    goodfood: "Sakura"
 }
 
 end
