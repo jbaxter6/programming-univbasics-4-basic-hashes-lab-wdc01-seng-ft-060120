@@ -1,13 +1,20 @@
-def new_hash
-  {}
+def new_hash{
+  
+}
 end
 
-def my_hash
+def my_hash{
   # return a valid hash with any key/value pair of your choice
+ :date => "05/11/2020"  
+ :todo => "homework"
+ :dinner => "beans and rice"
+}
 end
 
-def pioneer
+def pioneer{
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  :name => "Grace Hopper"
+}
 end
 
 
