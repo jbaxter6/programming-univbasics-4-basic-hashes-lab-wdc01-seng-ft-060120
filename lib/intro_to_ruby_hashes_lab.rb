@@ -5,7 +5,9 @@ end
 
 def my_hash{
   # return a valid hash with any key/value pair of your choice
- 
+ :date => 05/11/2020  
+ :todo => "homework"
+ :dinner => "beans and rice"
 }
 end
 
